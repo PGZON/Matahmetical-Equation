@@ -8,6 +8,7 @@ This project calculates results based on the following formula:
 \]
 
 ### Formula Details
+
 1. **Average Calculation**:
    For each set of values, the average is calculated using:
    \[
