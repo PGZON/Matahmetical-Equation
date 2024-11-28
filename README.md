@@ -7,17 +7,19 @@ This project calculates results based on the following formula:
 \text{Result} = \frac{\text{Average}}{\text{Leg Length}} \times 100
 \]
 
+## Formula
+\[
+\text{Result} = \frac{\text{Average}}{\text{Leg Length}} \times 100
+\]
+
 ### Formula Details
 
 1. **Average Calculation**:
-   For each set of values, the average is calculated using:
    \[
    \text{Average} = \frac{x_1 + x_2 + x_3}{n}
    \]
-   where \(x_1\), \(x_2\), and \(x_3\) are values from each input set, and \(n\) is the number of values (in this case, 3).
 
 2. **Final Result Calculation**:
-   The final result is derived from the average using the formula:
    \[
    \text{Result} = \left(\frac{\text{Average}}{\text{Leg Length}}\right) \times 100
    \]
